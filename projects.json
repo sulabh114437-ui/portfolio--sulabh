@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "E-Commerce Platform",
+        "description": "A full-stack e-commerce platform built with React, Node.js, and MongoDB. Features include product catalog, shopping cart, payment integration, and admin dashboard.",
+        "icon": "🛒",
+        "github": "https://github.com/sulabh114437-ui/ecommerce-platform",
+        "live": "https://ecommerce-platform-demo.netlify.app"
+    },
+    {
+        "id": 2,
+        "title": "Weather App",
+        "description": "A real-time weather application using OpenWeather API. Displays current weather, 5-day forecast, and allows location search with a beautiful responsive UI.",
+        "icon": "🌤️",
+        "github": "https://github.com/sulabh114437-ui/weather-app",
+        "live": "https://weather-app-sulabh.netlify.app"
+    },
+    {
+        "id": 3,
+        "title": "Task Management System",
+        "description": "A collaborative task management application with user authentication, real-time updates, and team collaboration features using Firebase.",
+        "icon": "✅",
+        "github": "https://github.com/sulabh114437-ui/task-manager",
+        "live": "https://task-manager-sulabh.netlify.app"
+    },
+    {
+        "id": 4,
+        "title": "Social Media Dashboard",
+        "description": "Analytics dashboard displaying social media metrics from multiple platforms. Built with React, Redux, and Chart.js for data visualization.",
+        "icon": "📊",
+        "github": "https://github.com/sulabh114437-ui/social-dashboard",
+        "live": "https://social-dashboard-sulabh.netlify.app"
+    },
+    {
+        "id": 5,
+        "title": "Blog Platform",
+        "description": "A blogging platform with markdown support, user authentication, comments, and search functionality. Backend built with Express and PostgreSQL.",
+        "icon": "📝",
+        "github": "https://github.com/sulabh114437-ui/blog-platform",
+        "live": "https://blog-platform-sulabh.netlify.app"
+    },
+    {
+        "id": 6,
+        "title": "Portfolio Website",
+        "description": "This portfolio website! Showcasing projects, skills, and experience with responsive design and smooth animations.",
+        "icon": "💼",
+        "github": "https://github.com/sulabh114437-ui/portfolio",
+        "live": "https://sulabh-portfolio.netlify.app"
+    }
+]
